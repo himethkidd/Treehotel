@@ -86,7 +86,7 @@ nav a.active{
     padding-bottom: 0;
 }
 
-
+/* enchanted forest gala */
 .event2pg-container{
     width: 100%;
     height: 70vh;
@@ -99,7 +99,6 @@ nav a.active{
 }
 
 .event2pg-content h5{
-
     background: linear-gradient(90deg, #ff0000, #000000, #ff00f3, #0033ff, #ff00c4, #ff0000);
     font-size: 50px;
     background-size: 400%;
@@ -108,6 +107,7 @@ nav a.active{
     animation: animate 10s linear infinite;
 }
 
+/* header animation */
 @keyframes animate{
     0%{
         background-position: 0%;
@@ -123,7 +123,7 @@ nav a.active{
     text-shadow: 0 0 5px #726e4b98;
 }
 
-
+/* forest inspired decor */
 .eventspg2{
     display: flex;
     flex-wrap: wrap;
@@ -175,8 +175,7 @@ nav a.active{
     transform: translateY(-10px);
 }
 
-/* second image */
-
+/* live entertainment */
 .eventspg23{
     display: flex;
     flex-wrap: wrap;
@@ -216,8 +215,7 @@ nav a.active{
 
 }
 
-/* third image */
-
+/* star gazing */
 .eventspg234{
     display: flex;
     flex-wrap: wrap;
